@@ -1,4 +1,4 @@
-#Concurrent calibration using item response theory
+# Concurrent calibration using item response theory
 
 This vignette illustrates test equating of two short form medical diagnostic questionnaires using item response theory. The purpose here is primarly to illustrate how the equating process of concurrent calibration can be implemented using the mirt package in R, and to predict the scores on one survey from the other.
 
